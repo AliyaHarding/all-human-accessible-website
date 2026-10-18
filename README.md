@@ -2,7 +2,7 @@
 
 Ontwerp en maak voor een opdrachtgever een website toegankelijk volgens WCAG richtlijnen.
 
-De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/INSTRUCTIONS.md)
+De instructie van deze leertaak staat in [WIKI](https://github.com/fdnd-task/all-human-accessible-website/wiki)
 
 ## Inhoudsopgave
 
